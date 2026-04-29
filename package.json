@@ -16,7 +16,6 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "postinstall": "node scripts/patch-nth-check-compat.cjs",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
